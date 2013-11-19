@@ -5,3 +5,9 @@ target/*
 release/*
 test/*
 logs/*
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
