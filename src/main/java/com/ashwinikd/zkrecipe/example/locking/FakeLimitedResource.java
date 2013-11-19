@@ -1,4 +1,4 @@
-package com.bsb.games.zoo.example.locking;
+package com.ashwinikd.zkrecipe.example.locking;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 

@@ -1,4 +1,4 @@
-package com.bsb.games.zoo.example.leader;
+package com.ashwinikd.zkrecipe.example.leader;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
